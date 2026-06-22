@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain
+langchain-google-genai
+tavily-python
+redis
+pydantic
+python-dotenv
+websockets
